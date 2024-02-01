@@ -1,2 +1,4 @@
+New line added at the top.
+
 Here's another wonderful file.
 It's also a good file.
